@@ -1,42 +1,40 @@
-<h1>Hi, <br/><a href="https://github.com/adombrowiak">I'm Aaron</a>! , <a href="https://www.linkedin.com/in/aaron-dombrowiak/">Cybersecurity Professional</a>
+<h1>Hello, and welcome to my GitHub Profile!</h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h3>About me</h3>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+My name is Aaron Dombrowiak, and I am a dedicated cybersecurity professional with a strong foundation in both education and hands-on experience. I hold a Bachelor’s Degree in Cyber Defense from Davenport University and am currently pursuing a Master’s Degree in Cybersecurity Technology at the University of Maryland. In addition to my academic background, I am Security+ certified, and continuously advancing my skills and knowledge through studying for certifications like CISSP and CySA+. My commitment to this field is unwavering, and I am always eager to learn and grow. 
 
-<h2>📺 Popular YouTube Videos</h2>
+Driven by a passion for safeguarding digital assets, I specialize in protecting sensitive information and ensuring secure infrastructures. My goal is to leverage my expertise in cybersecurity to help organizations implement robust security frameworks, promoting a safer digital landscape for everyone.
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+On here I'll be adding all the documentation I have done for each of my graduate courses, along with a little summary on what to expect from the project.
+
+Thank you for stopping by!
+
+<h2> Graduate Projects:</h2>
+
+- <b>CST 620: Prevention of Cyber Attack Methodologies</b>
+  - [Project 1: Remote Access Controls](https://github.com/user-attachments/files/17102227/dombrowiak_CST620_Project1.pdf)
+    - Exploring built-in protective controls inside the Windows OS and Linux OS.
+  - [Project 2: Network Access controls](https://github.com/user-attachments/files/17102221/dombrowiak_CST620_Project2.pdf)
+    - Focusing more on the Linux Firewall using IPTables. Getting a better understanding with it and exploring more advanced features with IPTables.
+  - [Project 3: Web Application Security Controls](https://github.com/user-attachments/files/17102216/dombrowiak_CST620_Project3.pdf)
+    - Understanding how to install a web server and enable secure communications with the web server.
+  - [Project 4: System Level Security](https://github.com/user-attachments/files/17102215/dombrowiak_CST620_Project4.pdf)
+    - Configuring users and groups for both Windows and Linux environments. 
+
+- <b>CST 630: Advanced Cyber Exploitation and Mitgation Methodologies</b>
+  - [Penetration Testing Plan & Report](https://github.com/user-attachments/files/17102200/dombrowiak._CST630_Project4.pdf)
+    - FICBANK has engaged the University of Maryland Global Campus Penetration Testing Team to conduct a penetration test of their infrastructure in compliance with federal laws, regulations, and NIST standards. The test will assess FICBANK's security posture and provide a permanent record of the testing activities. The testing includes automated and manual activities using tools such as Kali Linux and the native operating system command prompt.
+
+<h2>Personal Projects:</h2>
+Coming soon.
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+
+[linkedin]: https://www.linkedin.com/in/aaron-dombrowiak/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
