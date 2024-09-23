@@ -10,7 +10,7 @@ On here I'll be adding all the documentation I have done for each of my graduate
 
 Thank you for stopping by!
 
-<h2> Graduate Projects:</h2>
+<h2>Graduate Projects:</h2>
 
 - <b>CST 620: Prevention of Cyber Attack Methodologies</b>
   - [Project 1: Remote Access Controls](https://github.com/user-attachments/files/17102227/dombrowiak_CST620_Project1.pdf)
