@@ -13,7 +13,8 @@ Thank you for stopping by!
 <h2>Graduate Projects:</h2>
 
 - <b>CST 620: Prevention of Cyber Attack Methodologies</b>
-  - [Project 1: Remote Access Controls](https://github.com/user-attachments/files/17102227/dombrowiak_CST620_Project1.pdf)
+  - [Project 1: Remote Access Controls](https://github.com/adombrowiak/RemoteAccessControls)
+  - [Project Document](https://github.com/user-attachments/files/17102227/dombrowiak_CST620_Project1.pdf)
     - Exploring built-in protective controls inside the Windows OS and Linux OS.
   - [Project 2: Network Access controls](https://github.com/user-attachments/files/17102221/dombrowiak_CST620_Project2.pdf)
     - Focusing more on the Linux Firewall using IPTables. Getting a better understanding with it and exploring more advanced features with IPTables.
