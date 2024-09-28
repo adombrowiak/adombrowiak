@@ -1,6 +1,6 @@
 <h1>Hello, and welcome to my GitHub Profile!</h1>
 
-<h3>About me</h3>
+<h3>About Me</h3>
 
 My name is Aaron Dombrowiak, and I am a dedicated cybersecurity professional with a strong foundation in both education and hands-on experience. I hold a Bachelor’s Degree in Cyber Defense from Davenport University and am currently pursuing a Master’s Degree in Cybersecurity Technology at the University of Maryland. In addition to my academic background, I am Security+ certified, and continuously advancing my skills and knowledge through studying for certifications like CISSP and CySA+. My commitment to this field is unwavering, and I am always eager to learn and grow. 
 
