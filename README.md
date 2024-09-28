@@ -19,7 +19,7 @@ Thank you for stopping by!
   - [Project 2: Network Access controls Repository](https://github.com/adombrowiak/NetworkAccessControls)
   - [Project  Documentation](https://github.com/user-attachments/files/17102221/dombrowiak_CST620_Project2.pdf)
     - Focusing more on the Linux Firewall using IPTables. Getting a better understanding with it and exploring more advanced features with IPTables.
-  - [Project 3: Web Application Security Controls Repository]
+  - [Project 3: Web Application Security Controls Repository](https://github.com/adombrowiak/Web-Application-Security-Controls-Repository)
   - [Project Documentation](https://github.com/user-attachments/files/17102216/dombrowiak_CST620_Project3.pdf)
     - Understanding how to install a web server and enable secure communications with the web server.
   - [Project 4: System Level Security Repository]
