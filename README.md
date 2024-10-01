@@ -22,7 +22,7 @@ Thank you for stopping by!
   - [Project 3: Web Application Security Controls Repository](https://github.com/adombrowiak/Web-Application-Security-Controls-Repository)
   - [Project Documentation](https://github.com/user-attachments/files/17102216/dombrowiak_CST620_Project3.pdf)
     - Understanding how to install a web server and enable secure communications with the web server.
-  - [Project 4: System Level Security Repository]
+  - [Project 4: System Level Security Repository](https://github.com/adombrowiak/System-Level-Security-Repository)
   - [Project Documentation](https://github.com/user-attachments/files/17102215/dombrowiak_CST620_Project4.pdf)
     - Configuring users and groups for both Windows and Linux environments. 
 
