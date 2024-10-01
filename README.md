@@ -2,7 +2,7 @@
 
 <h3>About Me</h3>
 
-My name is Aaron Dombrowiak, and I am a dedicated cybersecurity professional with a strong foundation in both education and hands-on experience. I hold a Bachelor’s Degree in Cyber Defense from Davenport University and am currently pursuing a Master’s Degree in Cybersecurity Technology at the University of Maryland. In addition to my academic background, I am Security+ certified, and continuously advancing my skills and knowledge through studying for certifications like CISSP and CySA+. My commitment to this field is unwavering, and I am always eager to learn and grow. 
+My name is [Aaron Dombrowiak](https://www.linkedin.com/in/aaron-dombrowiak/), and I am a dedicated cybersecurity professional with a strong foundation in both education and hands-on experience. I hold a Bachelor’s Degree in Cyber Defense from Davenport University and am currently pursuing a Master’s Degree in Cybersecurity Technology at the University of Maryland. In addition to my academic background, I am Security+ certified, and continuously advancing my skills and knowledge through studying for certifications like CISSP and CySA+. My commitment to this field is unwavering, and I am always eager to learn and grow. 
 
 Driven by a passion for safeguarding digital assets, I specialize in protecting sensitive information and ensuring secure infrastructures. My goal is to leverage my expertise in cybersecurity to help organizations implement robust security frameworks, promoting a safer digital landscape for everyone.
 
@@ -32,25 +32,3 @@ Thank you for stopping by!
 
 <h2>Personal Projects:</h2>
 Coming soon.
-
-<h2>Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[linkedin]: https://www.linkedin.com/in/aaron-dombrowiak/
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
