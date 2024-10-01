@@ -14,16 +14,16 @@ Thank you for stopping by!
 
 - <b>CST 620: Prevention of Cyber Attack Methodologies</b>
   - [Project 1: Remote Access Controls Repository](https://github.com/adombrowiak/RemoteAccessControls)
-  - [Project Document](https://github.com/user-attachments/files/17102227/dombrowiak_CST620_Project1.pdf)
+    - [Project Document](https://github.com/user-attachments/files/17102227/dombrowiak_CST620_Project1.pdf)
     - Exploring built-in protective controls inside the Windows OS and Linux OS.
   - [Project 2: Network Access controls Repository](https://github.com/adombrowiak/NetworkAccessControls)
-  - [Project  Documentation](https://github.com/user-attachments/files/17102221/dombrowiak_CST620_Project2.pdf)
+    - [Project  Documentation](https://github.com/user-attachments/files/17102221/dombrowiak_CST620_Project2.pdf)
     - Focusing more on the Linux Firewall using IPTables. Getting a better understanding with it and exploring more advanced features with IPTables.
   - [Project 3: Web Application Security Controls Repository](https://github.com/adombrowiak/Web-Application-Security-Controls-Repository)
-  - [Project Documentation](https://github.com/user-attachments/files/17102216/dombrowiak_CST620_Project3.pdf)
+    - [Project Documentation](https://github.com/user-attachments/files/17102216/dombrowiak_CST620_Project3.pdf)
     - Understanding how to install a web server and enable secure communications with the web server.
   - [Project 4: System Level Security Repository](https://github.com/adombrowiak/System-Level-Security-Repository)
-  - [Project Documentation](https://github.com/user-attachments/files/17102215/dombrowiak_CST620_Project4.pdf)
+    - [Project Documentation](https://github.com/user-attachments/files/17102215/dombrowiak_CST620_Project4.pdf)
     - Configuring users and groups for both Windows and Linux environments. 
 
 - <b>CST 630: Advanced Cyber Exploitation and Mitgation Methodologies</b>
