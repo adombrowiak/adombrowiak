@@ -13,22 +13,25 @@ Thank you for stopping by!
 <h2>Graduate Projects:</h2>
 
 - <b>CST 620: Prevention of Cyber Attack Methodologies</b>
-  - [Project 1: Remote Access Controls Repository](https://github.com/adombrowiak/RemoteAccessControls)
-    - [Project Document](https://github.com/user-attachments/files/17102227/dombrowiak_CST620_Project1.pdf)
+  - [Project 1: Remote Access Controls](https://github.com/adombrowiak/RemoteAccessControls)
+    - [Project Documentation](https://github.com/user-attachments/files/17102227/dombrowiak_CST620_Project1.pdf)
     - Exploring built-in protective controls inside the Windows OS and Linux OS.
-  - [Project 2: Network Access Controls Repository](https://github.com/adombrowiak/NetworkAccessControls)
+  - [Project 2: Network Access Controls](https://github.com/adombrowiak/NetworkAccessControls)
     - [Project  Documentation](https://github.com/user-attachments/files/17102221/dombrowiak_CST620_Project2.pdf)
     - Focusing more on the Linux Firewall using IPTables. Getting a better understanding with it and exploring more advanced features with IPTables.
-  - [Project 3: Web Application Security Controls Repository](https://github.com/adombrowiak/Web-Application-Security-Controls-Repository)
+  - [Project 3: Web Application Security Controls](https://github.com/adombrowiak/Web-Application-Security-Controls-Repository)
     - [Project Documentation](https://github.com/user-attachments/files/17102216/dombrowiak_CST620_Project3.pdf)
     - Understanding how to install a web server and enable secure communications with the web server.
-  - [Project 4: System Level Security Repository](https://github.com/adombrowiak/System-Level-Security-Repository)
+  - [Project 4: System Level Security](https://github.com/adombrowiak/System-Level-Security-Repository)
     - [Project Documentation](https://github.com/user-attachments/files/17102215/dombrowiak_CST620_Project4.pdf)
     - Configuring users and groups for both Windows and Linux environments. 
 
-- <b>CST 630: Advanced Cyber Exploitation and Mitgation Methodologies</b>
-  - [Penetration Testing Plan & Report](https://github.com/user-attachments/files/17102200/dombrowiak._CST630_Project4.pdf)
-    - FICBANK has engaged the University of Maryland Global Campus Penetration Testing Team to conduct a penetration test of their infrastructure in compliance with federal laws, regulations, and NIST standards. The test will assess FICBANK's security posture and provide a permanent record of the testing activities. The testing includes automated and manual activities using tools such as Kali Linux and the native operating system command prompt.
-
+- <b>CST 630: Advanced Cyber Exploitation and Mitgation Methodologies</b></br>
+For this class set of projects, it was working on the same document over the 11 week course.</br>
+You can find the completed document [here](https://github.com/user-attachments/files/17345988/dombrowiak._CST630_Project4.pdf)
+  - Project 1: Reconnaissance
+    - Pages Edited were 5-16 
+    - In this lab, you will act as a professional penetration tester to assess the security of a client’s IT infrastructure by identifying and exploiting potential vulnerabilities in web applications, computer systems, and internal networks. Your objective is to evaluate the client’s security posture, document the findings, and provide a detailed penetration testing report to the organization's leadership. The lab will require the use of preinstalled tools in the MARS virtual lab environment to complete the testing and reporting.
+    
 <h2>Personal Projects:</h2>
 Coming soon.
