@@ -28,10 +28,18 @@ Thank you for stopping by!
 
 - <b>CST 630: Advanced Cyber Exploitation and Mitgation Methodologies</b></br>
 For this class set of projects, it was working on the same document over the 11 week course.</br>
-You can find the completed document [here](https://github.com/user-attachments/files/17345988/dombrowiak._CST630_Project4.pdf)
+You can find the completed document [here](https://github.com/user-attachments/files/17345988/dombrowiak._CST630_Project4.pdf).
   - Project 1: Reconnaissance
-    - Pages Edited were 5-16 
+    - Pages edited were 5-16 
     - In this lab, you will act as a professional penetration tester to assess the security of a client’s IT infrastructure by identifying and exploiting potential vulnerabilities in web applications, computer systems, and internal networks. Your objective is to evaluate the client’s security posture, document the findings, and provide a detailed penetration testing report to the organization's leadership. The lab will require the use of preinstalled tools in the MARS virtual lab environment to complete the testing and reporting.
-    
+  - Project 2: Discovery
+    - Pages edited were 4-5, 8, 17-26
+    - This lab builds on the previous one, positioning you as a member of a cybersecurity team tasked with conducting penetration testing to assess your client’s IT infrastructure. The goal is to identify and evaluate vulnerabilities in areas such as web applications, computer systems, and internal networks that could be exploited by attackers. Your client is worried about security weaknesses that may affect their internal security posture and pose risks to the organization. Throughout the course, you will analyze the security of your client’s network and exploit identified vulnerabilities.
+  - Project 3: Exploitation
+    - Pages edited were 7-9, 17-29
+    - This lab continues from previous sessions, focusing on a cybersecurity team's role in penetration testing (pen testing) to assess a client's IT infrastructure for vulnerabilities. The client is worried about potential security issues that could affect their internal security and overall risk. In this lab, students will evaluate the internal network's security and document their findings in a Penetration Test Report using a provided template. Participants will utilize various pre-installed tools in the MARS virtual lab environment to conduct the testing.
+  - Project 4: Cleanup & Reporting
+    - Pages edited were 6-30
+    - The post-exploitation cleanup and reporting phase involves compiling findings from Projects 1, 2, and 3. As a member of a cybersecurity team conducting penetration testing, you've assessed your client's IT infrastructure and identified vulnerabilities in their network security.
 <h2>Personal Projects:</h2>
 Coming soon.
