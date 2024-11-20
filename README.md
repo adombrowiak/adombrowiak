@@ -41,5 +41,13 @@ You can find the completed document [here](https://github.com/user-attachments/f
   - Project 4: Cleanup & Reporting
     - Pages edited were 6-30
     - The post-exploitation cleanup and reporting phase involves compiling findings from Projects 1, 2, and 3. As a member of a cybersecurity team conducting penetration testing, you've assessed your client's IT infrastructure and identified vulnerabilities in their network security.
+- <b>CST 640: Digital Forensics Technology and Practices</b></br>
+For this class, each project is a PowerPoint presentation. Each project will be linked to downloading the finished PowerPoint.
+  - [Project 1: A network Intrusion](https://github.com/user-attachments/files/17831942/dombrowiak_CST64_Project1.pptx)
+    - Here we discusses a security breach analysis stemming from poor administrative practices. It highlights the vulnerability created by storing Base64-encoded credentials in a hidden, non-indexed folder, which an attacker exposed using a directory-scanning tool. The attacker reversed the encoding to gain system access, emphasizing the importance of robust security measures such as encryption and multi-factor authentication. The presentation also outlines tools like Kali Linux and CyberChef used for forensic analysis and recommends improved policies to prevent such intrusions.
+  - [Project 2: The Hacker Attacks](https://github.com/user-attachments/files/17831987/dombrowiak_CST640_Project2.pptx)
+    - In this project, it simulates a hacker attack using tools like Dirb and Nmap to exploit hidden directories, SSH, and RDP vulnerabilities. It demonstrates privilege escalation techniques, persistent access methods (e.g., scheduled tasks, startup scripts), and data exfiltration via encrypted SSH tunnels. Forensic artifacts such as altered logs and malicious scripts were generated to trace attacker actions and methods. The project underscores the importance of securing credentials, hardening services, and maintaining robust intrusion detection and prevention systems.
+
+
 <h2>Personal Projects:</h2>
 Coming soon.
