@@ -12,7 +12,7 @@ Thank you for stopping by!
 
 <h2>Graduate Projects:</h2>
 
-- <b>CST 620: Prevention of Cyber Attack Methodologies</b>
+- <b>CST 620: Prevention of Cyber Attack Methodologies</b></br>
   - [Project 1: Remote Access Controls](https://github.com/adombrowiak/RemoteAccessControls)
     - [Project Documentation](https://github.com/user-attachments/files/17102227/dombrowiak_CST620_Project1.pdf)
     - Exploring built-in protective controls inside the Windows OS and Linux OS.
@@ -48,6 +48,13 @@ For this class, each project is a PowerPoint presentation. Each project will be 
   - [Project 2: The Hacker Attacks](https://github.com/user-attachments/files/17831987/dombrowiak_CST640_Project2.pptx)
     - In this project, it simulates a hacker attack using tools like Dirb and Nmap to exploit hidden directories, SSH, and RDP vulnerabilities. It demonstrates privilege escalation techniques, persistent access methods (e.g., scheduled tasks, startup scripts), and data exfiltration via encrypted SSH tunnels. Forensic artifacts such as altered logs and malicious scripts were generated to trace attacker actions and methods. The project underscores the importance of securing credentials, hardening services, and maintaining robust intrusion detection and prevention systems.
 
+- <b>CYB 670: Cybersecurity Capstone</b></br>
+  - [Project Documentation](https://github.com/adombrowiak/Capstone.git)
+    - Created a detailed threat intelligence report using tools like AlienVault OTX, Cisco Talos, VirusTotal, and Google Dorking to find Indicators of Compromise (IOCs).</br>
+    - Performed network and DNS reconnaissance with Nmap and Kali Linux enumeration tools (dnsenum, dnsmap, dnsrecon, fierce) to map subdomains, identify vulnerabilities, and evaluate infrastructure exposure.</br>
+    - Conducted cross-validation of threat data across various intelligence platforms, identifying discrepancies and ensuring accurate risk assessments.</br>
+    - Provided actionable recommendations on website access, malware quarantine, and vulnerability exploitation scenarios, aligning findings with NIST CSF and MITRE ATT&CK frameworks.</br>
+    - Delivered a comprehensive analytical report showcasing the integration of tactical, operational, and strategic threat intelligence into incident response workflows.</br>
 
 <h2>Personal Projects:</h2>
 Coming soon.
