@@ -2,13 +2,12 @@
 
 <h3>About Me</h3>
 
-My name is [Aaron Dombrowiak](https://www.linkedin.com/in/aaron-dombrowiak/), and I am a dedicated cybersecurity professional with a strong foundation in both education and hands-on experience. I hold a B.S. in Cyber Defense from Davenport University and have completed an M.S. in Cybersecurity Technology at the University of Maryland Global Campus, pending official conferral in 2025. In addition to my academic background, I am Security+ certified, and continuously advancing my skills and knowledge through studying for certifications like CISSP and CySA+. My commitment to this field is unwavering, and I am always eager to learn and grow. 
+My name is [Aaron Dombrowiak](https://www.linkedin.com/in/aaron-dombrowiak/), and I am an IT and information systems expert specializing in enterprise systems, technology risk, and identity and access management. My background combines both academic knowledge and practical experience, focusing on how organizations create, manage, and oversee secure and dependable IT environments.</br>
+I hold a B.S. in Cyber Defense from Davenport University and an M.S. in Cybersecurity Technologies from the University of Maryland Global Campus. I am also certified in CompTIA Security+. My work and academic focus have consistently been on understanding how systems function at scale, identifying operational and access-related risks, and implementing controls to strike a balance between security, usability, and business requirements.</br>
+My professional interests lie primarily at the crossroads of IT systems analysis, technology risk and controls, and identity and access management. I see security as a facilitating function—supporting system reliability, audit preparedness, and well-informed decision-making, rather than functioning independently.</br>
+This repository highlights my technical and analytical work, including selected projects, system analyses, and risk exercises. I provide clear explanations of objectives, assumptions, and results. Each project is based on real-world enterprise scenarios and practical considerations, not just academic or lab exercises.</br>
+Thank you for taking the time to review my work.</br>
 
-Driven by a passion for safeguarding digital assets, I specialize in protecting sensitive information and ensuring secure infrastructures. My goal is to leverage my expertise in cybersecurity to help organizations implement robust security frameworks, promoting a safer digital landscape for everyone.
-
-On here I'll be adding all the documentation I have done for each of my graduate courses, along with a little summary on what to expect from the project.
-
-Thank you for stopping by!
 
 <h2>Graduate Projects:</h2>
 
