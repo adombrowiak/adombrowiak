@@ -24,6 +24,14 @@ Enterprise-focused documentation and analysis of technology risk identification,
 
 Repository: [Technology Risk & Controls](https://github.com/adombrowiak/technology-risk-and-controls)
 
+##
+
+**Identity & Access Governance**  
+Enterprise-focused documentation and analysis of identity lifecycle management, access governance, and role-based access control in IT environments.  
+
+Repository: [Identity & Access Governance](https://github.com/adombrowiak/identity-and-access-governance)
+
+
 Additional enterprise-focused projects are in progress.
 
 ---
