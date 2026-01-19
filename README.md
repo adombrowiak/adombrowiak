@@ -1,59 +1,76 @@
-<h1>Hello, and welcome to my GitHub Profile!</h1>
+## Academic Background & Graduate Projects
 
-<h3>About Me</h3>
+The items below represent selected academic work completed as part of my graduate program. These projects are retained for reference and demonstrate foundational knowledge across systems security, access controls, digital forensics, and risk analysis. They are academic in nature and do not represent production enterprise implementations.
 
-My name is [Aaron Dombrowiak](https://www.linkedin.com/in/aaron-dombrowiak/), and I am an IT and information systems expert specializing in enterprise systems, technology risk, and identity and access management. My background combines both academic knowledge and practical experience, focusing on how organizations create, manage, and oversee secure and dependable IT environments.</br>
-I hold a B.S. in Cyber Defense from Davenport University and an M.S. in Cybersecurity Technologies from the University of Maryland Global Campus. I am also certified in CompTIA Security+. My work and academic focus have consistently been on understanding how systems function at scale, identifying operational and access-related risks, and implementing controls to strike a balance between security, usability, and business requirements.</br>
-My professional interests lie primarily at the crossroads of IT systems analysis, technology risk and controls, and identity and access management. I see security as a facilitating function—supporting system reliability, audit preparedness, and well-informed decision-making, rather than functioning independently.</br>
-This repository highlights my technical and analytical work, including selected projects, system analyses, and risk exercises. I provide clear explanations of objectives, assumptions, and results. Each project is based on real-world enterprise scenarios and practical considerations, not just academic or lab exercises.</br>
-Thank you for taking the time to review my work.</br>
+The project materials below are provided as PDF or PowerPoint documents generated as part of academic coursework.
 
+---
 
-<h2>Graduate Projects:</h2>
+### CST 620 – Prevention of Cyber Attack Methodologies  
+**Focus area:** System, network, and application access controls
 
-- <b>CST 620: Prevention of Cyber Attack Methodologies</b></br>
-  - [Project 1: Remote Access Controls](https://github.com/adombrowiak/RemoteAccessControls)
-    - [Project Documentation](https://github.com/user-attachments/files/17102227/dombrowiak_CST620_Project1.pdf)
-    - Exploring built-in protective controls inside the Windows OS and Linux OS.
-  - [Project 2: Network Access Controls](https://github.com/adombrowiak/NetworkAccessControls)
-    - [Project  Documentation](https://github.com/user-attachments/files/17102221/dombrowiak_CST620_Project2.pdf)
-    - Focusing more on the Linux Firewall using IPTables. Getting a better understanding with it and exploring more advanced features with IPTables.
-  - [Project 3: Web Application Security Controls](https://github.com/adombrowiak/Web-Application-Security-Controls-Repository)
-    - [Project Documentation](https://github.com/user-attachments/files/17102216/dombrowiak_CST620_Project3.pdf)
-    - Understanding how to install a web server and enable secure communications with the web server.
-  - [Project 4: System Level Security](https://github.com/adombrowiak/System-Level-Security-Repository)
-    - [Project Documentation](https://github.com/user-attachments/files/17102215/dombrowiak_CST620_Project4.pdf)
-    - Configuring users and groups for both Windows and Linux environments. 
+**Remote Access Controls**  
+Exploration of built-in operating system controls for managing and restricting remote access in Windows and Linux environments.  
 
-- <b>CST 630: Advanced Cyber Exploitation and Mitgation Methodologies</b></br>
-For this class set of projects, it was working on the same document over the 11 week course.</br>
-You can find the completed document [here](https://github.com/user-attachments/files/17345988/dombrowiak._CST630_Project4.pdf).
-  - Project 1: Reconnaissance
-    - Pages edited were 5-16 
-    - In this lab, you will act as a professional penetration tester to assess the security of a client’s IT infrastructure by identifying and exploiting potential vulnerabilities in web applications, computer systems, and internal networks. Your objective is to evaluate the client’s security posture, document the findings, and provide a detailed penetration testing report to the organization's leadership. The lab will require the use of preinstalled tools in the MARS virtual lab environment to complete the testing and reporting.
-  - Project 2: Discovery
-    - Pages edited were 4-5, 8, 17-26
-    - This lab builds on the previous one, positioning you as a member of a cybersecurity team tasked with conducting penetration testing to assess your client’s IT infrastructure. The goal is to identify and evaluate vulnerabilities in areas such as web applications, computer systems, and internal networks that could be exploited by attackers. Your client is worried about security weaknesses that may affect their internal security posture and pose risks to the organization. Throughout the course, you will analyze the security of your client’s network and exploit identified vulnerabilities.
-  - Project 3: Exploitation
-    - Pages edited were 7-9, 17-29
-    - This lab continues from previous sessions, focusing on a cybersecurity team's role in penetration testing (pen testing) to assess a client's IT infrastructure for vulnerabilities. The client is worried about potential security issues that could affect their internal security and overall risk. In this lab, students will evaluate the internal network's security and document their findings in a Penetration Test Report using a provided template. Participants will utilize various pre-installed tools in the MARS virtual lab environment to conduct the testing.
-  - Project 4: Cleanup & Reporting
-    - Pages edited were 6-30
-    - The post-exploitation cleanup and reporting phase involves compiling findings from Projects 1, 2, and 3. As a member of a cybersecurity team conducting penetration testing, you've assessed your client's IT infrastructure and identified vulnerabilities in their network security.
-- <b>CST 640: Digital Forensics Technology and Practices</b></br>
-For this class, each project is a PowerPoint presentation. Each project will be linked to downloading the finished PowerPoint.
-  - [Project 1: A network Intrusion](https://github.com/user-attachments/files/17831942/dombrowiak_CST64_Project1.pptx)
-    - Here we discusses a security breach analysis stemming from poor administrative practices. It highlights the vulnerability created by storing Base64-encoded credentials in a hidden, non-indexed folder, which an attacker exposed using a directory-scanning tool. The attacker reversed the encoding to gain system access, emphasizing the importance of robust security measures such as encryption and multi-factor authentication. The presentation also outlines tools like Kali Linux and CyberChef used for forensic analysis and recommends improved policies to prevent such intrusions.
-  - [Project 2: The Hacker Attacks](https://github.com/user-attachments/files/17831987/dombrowiak_CST640_Project2.pptx)
-    - In this project, it simulates a hacker attack using tools like Dirb and Nmap to exploit hidden directories, SSH, and RDP vulnerabilities. It demonstrates privilege escalation techniques, persistent access methods (e.g., scheduled tasks, startup scripts), and data exfiltration via encrypted SSH tunnels. Forensic artifacts such as altered logs and malicious scripts were generated to trace attacker actions and methods. The project underscores the importance of securing credentials, hardening services, and maintaining robust intrusion detection and prevention systems.
+[Project Documentation](https://github.com/user-attachments/files/17102227/dombrowiak_CST620_Project1.pdf)
 
-- <b>CYB 670: Cybersecurity Capstone</b></br>
-  - [Project Documentation](https://github.com/adombrowiak/Capstone.git)
-    - Created a detailed threat intelligence report using tools like AlienVault OTX, Cisco Talos, VirusTotal, and Google Dorking to find Indicators of Compromise (IOCs).</br>
-    - Performed network and DNS reconnaissance with Nmap and Kali Linux enumeration tools (dnsenum, dnsmap, dnsrecon, fierce) to map subdomains, identify vulnerabilities, and evaluate infrastructure exposure.</br>
-    - Conducted cross-validation of threat data across various intelligence platforms, identifying discrepancies and ensuring accurate risk assessments.</br>
-    - Provided actionable recommendations on website access, malware quarantine, and vulnerability exploitation scenarios, aligning findings with NIST CSF and MITRE ATT&CK frameworks.</br>
-    - Delivered a comprehensive analytical report showcasing the integration of tactical, operational, and strategic threat intelligence into incident response workflows.</br>
+**Network Access Controls**  
+Analysis of Linux firewall configurations and access enforcement mechanisms, with emphasis on rule design and traffic control.  
 
-<h2>Personal Projects:</h2>
-Coming soon.
+[Project Documentation](https://github.com/user-attachments/files/17102221/dombrowiak_CST620_Project2.pdf)
+
+**Web Application Security Controls**  
+Examination of secure web server configuration and encrypted communications in a hosted environment.  
+
+[Project Documentation](https://github.com/user-attachments/files/17102216/dombrowiak_CST620_Project3.pdf)
+
+**System-Level Security**  
+User, group, and permission management across Windows and Linux systems, with focus on access separation and administrative boundaries.  
+
+[Project Documentation](https://github.com/user-attachments/files/17102215/dombrowiak_CST620_Project4.pdf)
+
+---
+
+### CST 630 – Advanced Cyber Exploitation and Mitigation Methodologies  
+**Focus area:** Vulnerability analysis and security assessment reporting
+
+This course consisted of a cumulative assessment document developed over an 11-week period. The work emphasized vulnerability identification, assessment documentation, and executive-level reporting rather than tool-specific exploitation techniques.
+
+[Project Documentation](https://github.com/user-attachments/files/17345988/dombrowiak._CST630_Project4.pdf)
+
+---
+
+### CST 640 – Digital Forensics Technology and Practices  
+**Focus area:** Incident reconstruction and forensic analysis
+
+**Network Intrusion Analysis**  
+Forensic examination of a simulated security breach caused by weak administrative controls, highlighting credential exposure, attacker movement, and remediation recommendations.  
+
+Presentation (PPTX): [Project 1: A network Intrusion](https://github.com/user-attachments/files/17831942/dombrowiak_CST64_Project1.pptx)
+
+**Simulated Hacker Attack Investigation**  
+Analysis of attacker activity, persistence mechanisms, and forensic artifacts within a controlled environment, emphasizing detection and prevention lessons.  
+
+Presentation (PPTX): [Project 2: The Hacker Attacks](https://github.com/user-attachments/files/17831987/dombrowiak_CST640_Project2.pptx)
+
+---
+
+### CYB 670 – Cybersecurity Capstone  
+**Focus area:** Threat analysis and incident reporting
+
+The capstone project focused on synthesizing threat intelligence, reconnaissance findings, and risk assessment into a comprehensive analytical report aligned with established frameworks.
+
+[Capstone Documentation](https://github.com/adombrowiak/Capstone.git)
+
+---
+
+## Professional & Enterprise-Focused Projects
+
+The repositories below represent professionally oriented projects focused on enterprise IT systems, access management, and technology risk. These projects are designed to reflect real-world organizational considerations rather than academic lab environments.
+
+**Remote Access Management**  
+Enterprise-focused documentation and analysis of remote access governance, identity integration, operational risk, and control design.  
+
+Repository: [Remote Access Management](https://github.com/adombrowiak/remote-access-management)
+
+Additional professional projects will be added as they are completed.
