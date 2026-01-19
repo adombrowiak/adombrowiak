@@ -14,6 +14,8 @@ Repository: [Technology Risk & Controls](https://github.com/adombrowiak/technolo
 
 Additional enterprise-focused projects are in progress.
 
+---
+
 ## Academic Background & Graduate Projects
 
 The items below represent selected academic work completed as part of my graduate program. These projects are retained for reference and demonstrate foundational knowledge across systems security, access controls, digital forensics, and risk analysis. They are academic in nature and do not represent production enterprise implementations.
