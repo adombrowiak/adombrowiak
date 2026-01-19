@@ -1,3 +1,14 @@
+## Professional & Enterprise-Focused Projects
+
+The repositories below represent professionally oriented projects focused on enterprise IT systems, access management, and technology risk. These projects are designed to reflect real-world organizational considerations rather than academic lab environments.
+
+**Remote Access Management**  
+Enterprise-focused documentation and analysis of remote access governance, identity integration, operational risk, and control design.  
+
+Repository: [Remote Access Management](https://github.com/adombrowiak/remote-access-management)
+
+Additional enterprise-focused projects are in progress.
+
 ## Academic Background & Graduate Projects
 
 The items below represent selected academic work completed as part of my graduate program. These projects are retained for reference and demonstrate foundational knowledge across systems security, access controls, digital forensics, and risk analysis. They are academic in nature and do not represent production enterprise implementations.
@@ -61,16 +72,3 @@ Presentation (PPTX): [Project 2: The Hacker Attacks](https://github.com/user-att
 The capstone project focused on synthesizing threat intelligence, reconnaissance findings, and risk assessment into a comprehensive analytical report aligned with established frameworks.
 
 [Capstone Documentation](https://github.com/adombrowiak/Capstone.git)
-
----
-
-## Professional & Enterprise-Focused Projects
-
-The repositories below represent professionally oriented projects focused on enterprise IT systems, access management, and technology risk. These projects are designed to reflect real-world organizational considerations rather than academic lab environments.
-
-**Remote Access Management**  
-Enterprise-focused documentation and analysis of remote access governance, identity integration, operational risk, and control design.  
-
-Repository: [Remote Access Management](https://github.com/adombrowiak/remote-access-management)
-
-Additional professional projects will be added as they are completed.
