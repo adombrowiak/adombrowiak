@@ -1,3 +1,12 @@
+## About Me
+
+My name is [Aaron Dombrowiak](https://www.linkedin.com/in/aaron-dombrowiak/). I am an IT and information systems professional with a focus on enterprise systems, technology risk, and identity and access management. My background combines academic training and hands-on experience centered on how organizations design, operate, and govern reliable and secure IT environments.
+
+I hold a B.S. in Cyber Defense from Davenport University and an M.S. in Cybersecurity Technologies from the University of Maryland Global Campus. I am also CompTIA Security+ certified. My work and studies emphasize understanding how systems function at scale, identifying operational and access-related risks, and implementing controls that balance security, usability, and business needs.
+
+My professional interests sit at the intersection of IT systems analysis, technology risk and controls, and identity and access management. I approach security as an enabling function that supports system reliability, audit readiness, and informed decision-making rather than operating in isolation.
+
+
 ## Professional & Enterprise-Focused Projects
 
 The repositories below represent professionally oriented projects focused on enterprise IT systems, access management, and technology risk. These projects are designed to reflect real-world organizational considerations rather than academic lab environments.
