@@ -6,6 +6,7 @@ I hold a B.S. in Cyber Defense from Davenport University and an M.S. in Cybersec
 
 My professional interests sit at the intersection of IT systems analysis, technology risk and controls, and identity and access management. I approach security as an enabling function that supports system reliability, audit readiness, and informed decision-making rather than operating in isolation.
 
+---
 
 ## Professional & Enterprise-Focused Projects
 
@@ -15,6 +16,8 @@ The repositories below represent professionally oriented projects focused on ent
 Enterprise-focused documentation and analysis of remote access governance, identity integration, operational risk, and control design.  
 
 Repository: [Remote Access Management](https://github.com/adombrowiak/remote-access-management)
+
+##
 
 **Technology Risk & Controls**  
 Enterprise-focused documentation and analysis of technology risk identification, control objectives, and governance within IT systems.  
@@ -31,7 +34,7 @@ The items below represent selected academic work completed as part of my graduat
 
 The project materials below are provided as PDF or PowerPoint documents generated as part of academic coursework.
 
----
+##
 
 ### CST 620 – Prevention of Cyber Attack Methodologies  
 **Focus area:** System, network, and application access controls
@@ -56,7 +59,7 @@ User, group, and permission management across Windows and Linux systems, with fo
 
 [Project Documentation](https://github.com/user-attachments/files/17102215/dombrowiak_CST620_Project4.pdf)
 
----
+##
 
 ### CST 630 – Advanced Cyber Exploitation and Mitigation Methodologies  
 **Focus area:** Vulnerability analysis and security assessment reporting
@@ -65,7 +68,7 @@ This course consisted of a cumulative assessment document developed over an 11-w
 
 [Project Documentation](https://github.com/user-attachments/files/17345988/dombrowiak._CST630_Project4.pdf)
 
----
+##
 
 ### CST 640 – Digital Forensics Technology and Practices  
 **Focus area:** Incident reconstruction and forensic analysis
@@ -80,7 +83,7 @@ Analysis of attacker activity, persistence mechanisms, and forensic artifacts wi
 
 Presentation (PPTX): [Project 2: The Hacker Attacks](https://github.com/user-attachments/files/17831987/dombrowiak_CST640_Project2.pptx)
 
----
+##
 
 ### CYB 670 – Cybersecurity Capstone  
 **Focus area:** Threat analysis and incident reporting
