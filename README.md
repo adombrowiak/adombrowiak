@@ -7,6 +7,11 @@ Enterprise-focused documentation and analysis of remote access governance, ident
 
 Repository: [Remote Access Management](https://github.com/adombrowiak/remote-access-management)
 
+**Technology Risk & Controls**  
+Enterprise-focused documentation and analysis of technology risk identification, control objectives, and governance within IT systems.  
+
+Repository: [Technology Risk & Controls](https://github.com/adombrowiak/technology-risk-and-controls)
+
 Additional enterprise-focused projects are in progress.
 
 ## Academic Background & Graduate Projects
