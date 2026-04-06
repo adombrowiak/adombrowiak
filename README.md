@@ -1,38 +1,41 @@
 ## About Me
 
-My name is [Aaron Dombrowiak](https://www.linkedin.com/in/aaron-dombrowiak/). I am an IT and information systems professional with a focus on enterprise systems, technology risk, and identity and access management. My background combines academic training and hands-on experience centered on how organizations design, operate, and govern reliable and secure IT environments.
+My name is [Aaron Dombrowiak](https://www.linkedin.com/in/aaron-dombrowiak/). I am a cybersecurity professional with over 20 years of experience in digital forensics, incident response, and enterprise IT systems. My current focus is on detection engineering, threat hunting, and SOC operations, with an emphasis on analyzing endpoint telemetry and developing behavior-based detections.
 
-I hold a B.S. in Cyber Defense from Davenport University and an M.S. in Cybersecurity Technologies from the University of Maryland Global Campus. I am also CompTIA Security+ certified. My work and studies emphasize understanding how systems function at scale, identifying operational and access-related risks, and implementing controls that balance security, usability, and business needs.
+I hold a B.S. in Cyber Defense from Davenport University and an M.S. in Cybersecurity Technology from the University of Maryland Global Campus. I have also earned CompTIA CySA+ and continue to build hands-on experience through lab development and real-world detection scenarios.
 
-My professional interests sit at the intersection of IT systems analysis, technology risk and controls, and identity and access management. I approach security as an enabling function that supports system reliability, audit readiness, and informed decision-making rather than operating in isolation.
+My work centers on understanding how systems behave under both normal and adversarial conditions. I focus on process creation telemetry, command-line analysis, and parent-child process relationships using tools such as Splunk and Sysmon to identify attacker tradecraft and develop practical detection logic.
+
+I approach security from an operational perspective—prioritizing visibility, detection accuracy, and actionable analysis that supports real-world SOC workflows and incident response.
 
 ---
 
-## Professional & Enterprise-Focused Projects
+## Detection Engineering & Security Operations Projects
 
-The repositories below represent professionally oriented projects focused on enterprise IT systems, access management, and technology risk. These projects are designed to reflect real-world organizational considerations rather than academic lab environments.
+The repositories below represent hands-on projects focused on detection engineering, endpoint telemetry analysis, and security operations workflows. These projects emphasize real-world attacker behavior, process analysis, and the development of practical detection logic using tools such as Splunk and Sysmon.
 
+**Splunk + Sysmon Detection Lab**  
+Hands-on detection engineering lab focused on process creation telemetry, PowerShell abuse, and behavior-based threat detection using Sysmon and Splunk.
+
+Repository: [Splunk + Sysmon Detection Lab](https://github.com/adombrowiak/splunk-sysmon-detection-lab)
+
+### Additional Enterprise & Governance Projects
 **Remote Access Management**  
 Enterprise-focused documentation and analysis of remote access governance, identity integration, operational risk, and control design.  
 
 Repository: [Remote Access Management](https://github.com/adombrowiak/remote-access-management)
-
-##
 
 **Technology Risk & Controls**  
 Enterprise-focused documentation and analysis of technology risk identification, control objectives, and governance within IT systems.  
 
 Repository: [Technology Risk & Controls](https://github.com/adombrowiak/technology-risk-and-controls)
 
-##
-
 **Identity & Access Governance**  
 Enterprise-focused documentation and analysis of identity lifecycle management, access governance, and role-based access control in IT environments.  
 
 Repository: [Identity & Access Governance](https://github.com/adombrowiak/identity-and-access-governance)
 
-
-Additional enterprise-focused projects are in progress.
+Additional detection-focused labs and projects are in progress.
 
 ---
 
@@ -41,8 +44,6 @@ Additional enterprise-focused projects are in progress.
 The items below represent selected academic work completed as part of my graduate program. These projects are retained for reference and demonstrate foundational knowledge across systems security, access controls, digital forensics, and risk analysis. They are academic in nature and do not represent production enterprise implementations.
 
 The project materials below are provided as PDF or PowerPoint documents generated as part of academic coursework.
-
-##
 
 ### CST 620 – Prevention of Cyber Attack Methodologies  
 **Focus area:** System, network, and application access controls
@@ -67,16 +68,12 @@ User, group, and permission management across Windows and Linux systems, with fo
 
 [Project Documentation](https://github.com/user-attachments/files/17102215/dombrowiak_CST620_Project4.pdf)
 
-##
-
 ### CST 630 – Advanced Cyber Exploitation and Mitigation Methodologies  
 **Focus area:** Vulnerability analysis and security assessment reporting
 
 This course consisted of a cumulative assessment document developed over an 11-week period. The work emphasized vulnerability identification, assessment documentation, and executive-level reporting rather than tool-specific exploitation techniques.
 
 [Project Documentation](https://github.com/user-attachments/files/17345988/dombrowiak._CST630_Project4.pdf)
-
-##
 
 ### CST 640 – Digital Forensics Technology and Practices  
 **Focus area:** Incident reconstruction and forensic analysis
@@ -90,8 +87,6 @@ Presentation (PPTX): [Project 1: A network Intrusion](https://github.com/user-at
 Analysis of attacker activity, persistence mechanisms, and forensic artifacts within a controlled environment, emphasizing detection and prevention lessons.  
 
 Presentation (PPTX): [Project 2: The Hacker Attacks](https://github.com/user-attachments/files/17831987/dombrowiak_CST640_Project2.pptx)
-
-##
 
 ### CYB 670 – Cybersecurity Capstone  
 **Focus area:** Threat analysis and incident reporting
